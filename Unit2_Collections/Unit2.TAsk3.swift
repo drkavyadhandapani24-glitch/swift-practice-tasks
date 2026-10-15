@@ -1,8 +1,0 @@
-var students = [String]()
-students.append("Arun")
-students.append("Priya")
-students.append("Kumar")
-students.append("Divya")
-students.remove(at: 1)
-print("Student List:", students)
-print("Student Count:", students.count)
